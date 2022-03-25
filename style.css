@@ -1,7 +1,9 @@
 
 <style>
 @charset "utf-8";
-
+a{
+color:red;
+}
 a:hover{
 color:green;
 }
