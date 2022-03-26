@@ -12,5 +12,12 @@ color:green;
     
     flex-direction: column
 }
+
+.div2 {
+    display:flex;
+    flex: auto
+    
+}
+
   </style>
 
