@@ -9,13 +9,13 @@ color:green;
 }
 .div1 {
     display:flex;
-    
-    flex-direction: column
+   
+    flex-direction: column;
 }
 
 .div2 {
     display:flex;
-    flex: auto
+    flex: auto;
     
 }
 
