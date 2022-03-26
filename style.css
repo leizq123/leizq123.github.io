@@ -7,17 +7,23 @@ color:red;
 a:hover{
 color:green;
 }
-.div1 {
+body{
     display:flex;
    
     flex-direction: column;
 }
 
-.div2 {
+main {
     display:flex;
     flex: auto;
     
 }
-
+aside{
+    flex: 1;
+    
+}
+article{
+    flex: 3;
+}
   </style>
 
